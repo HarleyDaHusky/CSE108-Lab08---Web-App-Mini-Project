@@ -15,11 +15,11 @@ In app.py
 - Making teacher_portal return proper Jinja
 - Made new_Class(), enroll_class(), drop_class(), get_enrolled_students()
 
-  In templates/student.html
+In templates/student.html
   - Adjusted html template to contain "Day" and "Time"
   - Made enroll(), drop()
  
-  in templates/teacher.html
+In templates/teacher.html
   - Made the html UI based on student.html UI
   - Made the yourCourses(), addCourses(), editGrades() functions
   - Made the entire <script> except for signOut()
