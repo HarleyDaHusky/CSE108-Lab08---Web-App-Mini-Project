@@ -22,4 +22,4 @@ In templates/student.html
 In templates/teacher.html
   - Made the html UI based on student.html UI
   - Made the yourCourses(), addCourses(), editGrades() functions
-  - Made the entire <script> except for signOut()
+  - Made the entire script except for signOut()
